@@ -1,0 +1,33 @@
+.bg-orange {
+    background-color: #D97D6A;
+}
+
+.logotipo {
+    width: 50px;
+    height: 50px;
+}
+
+.text-white {
+    color: white;
+}
+
+html, body {
+    height: 100%;
+}
+
+header, footer {
+    height: 60px;
+}
+
+main {
+    min-height: calc(100vh - 120px);
+    overflow-y: auto;
+}
+
+.form-container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 700px;
+    margin: 0 auto;
+}
